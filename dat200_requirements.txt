@@ -1,0 +1,13 @@
+# Deep learning packages
+scikit-learn
+# Data representation and calculation
+numpy
+pandas
+# Jupyter kernel
+IPython
+ipykernel
+# Visualization
+matplotlib
+seaborn
+plotly
+mlxtend
